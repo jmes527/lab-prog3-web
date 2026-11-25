@@ -1,0 +1,7 @@
+body { background: #f4f6fb; }
+.card { border: 0; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+.login-box { max-width: 380px; margin: 80px auto; }
+.hero { background: linear-gradient(135deg, #0d6efd, #0a3d91); color: #fff; border-radius: 12px; padding: 32px; }
+.tarjeta-menu { transition: transform .15s; cursor: pointer; }
+.tarjeta-menu:hover { transform: translateY(-3px); }
+.navbar .nav-link.active { font-weight: 700; text-decoration: underline; }
