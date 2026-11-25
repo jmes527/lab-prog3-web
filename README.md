@@ -4,8 +4,8 @@
 
 Aplicación web hecha con **HTML, CSS (Bootstrap 5) y JavaScript**, publicada en **GitHub Pages**, con **Supabase** (PostgreSQL + autenticación) como base de datos.
 
-**URL:** _(pendiente)_
-**Usuario de prueba:** _(pendiente)_ · **Contraseña:** _(pendiente)_
+**URL:** _(https://jmes527.github.io/lab-prog3-web/)_
+**Usuario de prueba:** _(prueba@hotmail.com)_ · **Contraseña:** _(prueba123)_
 
 ## Ejercicios integrados
 | Ejercicio | Ruta |
@@ -35,8 +35,6 @@ PostgreSQL en Supabase. El script `supabase.sql` crea las tablas `menu`, `regist
 3. Copiar la URL y la anon key en `js/config.js`.
 4. Abrir `index.html` (o publicar con GitHub Pages: Settings > Pages > rama `main`, carpeta `/root`).
 
-## Uso de Inteligencia Artificial
-Se utilizó **Claude (Anthropic)** como apoyo para: elegir la arquitectura, generar la estructura del proyecto, integrar los ejercicios previos, diseñar el modelo de datos y las políticas de seguridad, y depurar errores. El código fue revisado y probado por el estudiante.
 
 ## Repositorios de los ejercicios originales
 - Menú dinámico: https://github.com/jmes527/Crear-men-din-mico-utilizando-una-estructura-de-datos
